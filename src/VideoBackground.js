@@ -10,7 +10,7 @@ const VideoBackground = ({movieid}) => {
     const movievideo= async ()=>{
         const data = await fetch('https://api.themoviedb.org/3/movie/'+movieid+'/videos', API_options)
         const json = await data.json()
-        console.log(json)
+        //console.log(json)
 
         const trailers = json.results.filter((filter)=>filter.type==="Trailer")
          const trailer = trailers.length?trailers[0]:json.results

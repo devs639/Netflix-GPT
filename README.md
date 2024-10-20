@@ -24,6 +24,11 @@
 -Update Store With Trailer Video
 -Embeded the youtube video made autoplay
 -Build Sceondary component
+-Build Movie List
+-Build Movie Card 
+-Found TMBD CDN URL (Poster)
+-Made Browser Page Look good
+- Created custom hooks for all the movie types and Used Custom hooks 
 
  # Features 
 *** -Sign In 
@@ -43,3 +48,8 @@
     - SearchBar
     -button (movie suggestions)
    
+   ## TMDB 
+    API Key
+      536f0a0cc9d31ccfc87d6d1879684b57
+    API Read Access Token
+       eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI1MzZmMGEwY2M5ZDMxY2NmYzg3ZDZkMTg3OTY4NGI1NyIsIm5iZiI6MTcyOTQxMTMxNS4zMzMxMjksInN1YiI6IjY3MTM2Yjc1MGNiNjI1MmY5OTA4MzVlOSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.F46f8QCqhLPQwGD9f77U70Bx4n1a3BNkzqE-wRk3-mI

@@ -7,6 +7,9 @@
 export const user_LOGO=
 'https://lh3.googleusercontent.com/a/ACg8ocKvzIz5m0qKYv_tGvkvXBEHC9ZOWEwwgkxjwkqruKypIj6c1udu=s432-c-no'
 
+  export const TMDB_Poster= 
+  'https://image.tmdb.org/t/p/w500'
+
 export const API_options  = {
     method: 'GET',
     headers: {

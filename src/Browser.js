@@ -7,7 +7,7 @@ import SceondaryContainer from './SceondaryContainer'
 const Browser = () => {
   UseNowPlayingMovies()
   return (
-    <div>
+    <div className='w-screen'>
       <Header/>
        <MainContainer/>
        <SceondaryContainer/>
